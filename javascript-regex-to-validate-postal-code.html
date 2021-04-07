@@ -31,7 +31,9 @@
 		//return /^\d{7}$/.test(value);
 
 		// 郵便番号（ハイフンあり・なし両方） - Zip code (both with and without hyphens)
-		return /^\d{3}[-]\d{4}$|^\d{3}[-]\d{2}$|^\d{3}$|^\d{5}$|^\d{7}$/.test(value);
+		//return /^\d{3}[-]\d{4}$|^\d{3}[-]\d{2}$|^\d{3}$|^\d{5}$|^\d{7}$/.test(value);
+
+		return /^[0-9]{3}\-?[0-9]{4}$/.test(value);
 	}
 
 	var values = ['1000014', '171-0031', '123-4567', '540-0002', '12345', 'New York', '1234', '', '     ', 'Bos33', 'Boston33', '333Chicago'];
