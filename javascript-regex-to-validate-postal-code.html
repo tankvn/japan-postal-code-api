@@ -1,24 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>JavaScript regex to validate postal code or City</title>
-	<meta charset="utf-8">
+<title>JavaScript regex to validate postal code or City</title>
+<meta charset="utf-8">
 </head>
 <body>
-	<h1>My First Heading</h1>
-	<p>My first paragraph.</p>
-	<script>
-		function validateCityOrPostalCode(value) {
-			return /^([0-9]{5}|[a-zA-Z][a-zA-Z ]{0,49})$/.test(value);
+<script>
+	function validateCityOrPostalCode(value) {
+		return /^([0-9]{5}|[a-zA-Z][a-zA-Z ]{0,49})$/.test(value);
+	}
+
+	// 郵便番号の場合 - Postal code
+	function validatePostalCode(value) {
+		// 郵便番号（ハイフンあり3桁・5桁・7桁） - Zip code (3 digits, 5 digits, 7 digits with hyphen)
+		//return /^\d{3}[-]\d{4}$|^\d{3}[-]\d{2}$|^\d{3}$/.test(value);
+
+		// 郵便番号（ハイフンあり5桁） - Zip code (5 digits with hyphen)
+		//return /^\d{3}[-]\d{2}$/.test(value);
+
+		// 郵便番号（ハイフンあり7桁） - Zip code (7 digits with hyphen)
+		//return /^\d{3}[-]\d{4}$/.test(value);
+
+		// 郵便番号（ハイフンなし3桁） - Zip code (3 digits without hyphens)
+		//return /^\d{3}$/.test(value);
+
+		// 郵便番号（ハイフンなし5桁） - Zip code (5 digits without hyphens)
+		//return /^\d{5}$/.test(value);
+
+		// 郵便番号（ハイフンなし7桁） - Zip code (7 digits without hyphens)
+		//return /^\d{7}$/.test(value);
+
+		// 郵便番号（ハイフンあり・なし両方） - Zip code (both with and without hyphens)
+		return /^\d{3}[-]\d{4}$|^\d{3}[-]\d{2}$|^\d{3}$|^\d{5}$|^\d{7}$/.test(value);
+	}
+
+	var values = ['1000014', '171-0031', '123-4567', '540-0002', '12345', 'New York', '1234', '', '     ', 'Bos33', 'Boston33', '333Chicago'];
+
+	values.forEach(
+		function(value) {
+			 console.log(value +":"+ validatePostalCode(value));
 		}
-
-		var values = ['12345', '171-0031', '540-0002', 'New York', '1234', '', '     ', 'Boston33', '333Chicago'];
-
-		values.forEach(
-			function(value) {
-				 console.log(value +":"+ validateCityOrPostalCode(value));
-			}
-		);
-	</script>
+	);
+</script>
 </body>
 </html>
