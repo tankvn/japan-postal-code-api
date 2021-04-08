@@ -23,9 +23,18 @@ and
 
 []()  
 
-## How to update postalcode data
+
+## Data source and explanation
+
+- General page: [http://www.post.japanpost.jp/zipcode/download.html](http://www.post.japanpost.jp/zipcode/download.html)
+- Download page: [http://www.post.japanpost.jp/zipcode/dl/kogaki-zip.html](http://www.post.japanpost.jp/zipcode/dl/kogaki-zip.html)
+- Explanation: [http://www.post.japanpost.jp/zipcode/dl/readme.html](http://www.post.japanpost.jp/zipcode/dl/readme.html)
 
 [https://www.post.japanpost.jp/zipcode/dl/roman-zip.html](https://www.post.japanpost.jp/zipcode/dl/roman-zip.html)
+
+
+## How to update postalcode data
+
 ```
 wget https://www.post.japanpost.jp/zipcode/dl/roman/ken_all_rome.zip
 unzip ken_all_rome.zip
