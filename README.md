@@ -11,14 +11,16 @@ and `zipdata` forked from:
 [https://github.com/haThaiHoang/japan-postal-code](https://github.com/haThaiHoang/japan-postal-code)  
 [https://github.com/linhnguyen-pnl/japan-post-code-custom](https://github.com/linhnguyen-pnl/japan-post-code-custom)  
 
+[https://github.com/danglephuc/jp-postalcode-lookup](https://github.com/danglephuc/jp-postalcode-lookup)  
+
+Update build database with postalcode data from http://jusyo.jp
+
+
 -----
 and `api/v1` forked from:  
 [https://github.com/madefor/postal-code-api](https://github.com/madefor/postal-code-api)  
 [https://github.com/madefor/postal-code-api/tree/gh-pages](https://github.com/madefor/postal-code-api/tree/gh-pages)  
 
-[https://github.com/danglephuc/jp-postalcode-lookup](https://github.com/danglephuc/jp-postalcode-lookup)  
-
-Update build database with postalcode data from http://jusyo.jp
 
 -----
 and `data` forked from:  
