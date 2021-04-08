@@ -16,6 +16,10 @@ and
 [https://github.com/yubinbango/yubinbango-data](https://github.com/yubinbango/yubinbango-data)  
 [https://github.com/yubinbango/yubinbango.github.io](https://github.com/yubinbango/yubinbango.github.io)  
 
+and
+
+[https://github.com/haThaiHoang/japan-postal-code](https://github.com/haThaiHoang/japan-postal-code)  
+
 []()  
 
 ## How to update postalcode data
