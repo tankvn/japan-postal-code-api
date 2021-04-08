@@ -32,9 +32,8 @@
 				console.log(xmlhttp.responseText);
 				console.log(obj);
 				console.log(obj.data);
-				for (const x in obj.data) {
-					var address = obj.data[x];
-					console.log(x, address);
+				for (let address of obj.data) {
+					console.log(address);
 					console.log(address.ja.prefecture, address.ja.address1, address.ja.address2, address.ja.address3, address.ja.address4);
 					console.log(address.en.prefecture, address.en.address1, address.en.address2, address.en.address3, address.en.address4);
 				}
