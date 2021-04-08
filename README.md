@@ -5,19 +5,19 @@
 ##### &nbsp;&emsp;&emsp; forked from [mzp/japan-postal-code](https://github.com/mzp/japan-postal-code)
 ###### &nbsp;&emsp;&emsp;&emsp; forked from [ajaxzip3/ajaxzip3.github.io](https://github.com/ajaxzip3/ajaxzip3.github.io)
 
-and
 
+and `api/v1` forked from:  
 [https://github.com/madefor/postal-code-api](https://github.com/madefor/postal-code-api)  
 [https://github.com/madefor/postal-code-api/tree/gh-pages](https://github.com/madefor/postal-code-api/tree/gh-pages)  
 
-and
 
+and `data` forked from:  
 [https://github.com/yubinbango/yubinbango](https://github.com/yubinbango/yubinbango)  
 [https://github.com/yubinbango/yubinbango-data](https://github.com/yubinbango/yubinbango-data)  
 [https://github.com/yubinbango/yubinbango.github.io](https://github.com/yubinbango/yubinbango.github.io)  
 
-and
 
+and  `zipdata` forked from:  
 [https://github.com/haThaiHoang/japan-postal-code](https://github.com/haThaiHoang/japan-postal-code)  
 [https://github.com/linhnguyen-pnl/japan-post-code-custom](https://github.com/linhnguyen-pnl/japan-post-code-custom)  
 
