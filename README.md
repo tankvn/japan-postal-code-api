@@ -7,8 +7,8 @@
 
 and
 
-[https://github.com/madefor/postal-code-api](https://github.com/madefor/postal-code-api)
-[https://github.com/madefor/postal-code-api/tree/gh-pages](https://github.com/madefor/postal-code-api/tree/gh-pages)
+[https://github.com/madefor/postal-code-api](https://github.com/madefor/postal-code-api)  
+[https://github.com/madefor/postal-code-api/tree/gh-pages](https://github.com/madefor/postal-code-api/tree/gh-pages)  
 []()
 []()
 
