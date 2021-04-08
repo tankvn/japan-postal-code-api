@@ -1,0 +1,21 @@
+zipdata({
+	"8460000":[[41,"多久市","","","Taku-shi","",""]],
+	"8460001":[[41,"多久市","北多久町","","Taku-shi","Kitatakumachi",""]],
+	"8460002":[[41,"多久市","北多久町小侍","","Taku-shi","Kitatakumachi Kosamurai",""]],
+	"8460003":[[41,"多久市","北多久町多久原","","Taku-shi","Kitatakumachi Takubaru",""]],
+	"8460004":[[41,"多久市","北多久町中多久","","Taku-shi","Kitatakumachi Nakataku",""]],
+	"8460005":[[41,"多久市","北多久町砂原","","Taku-shi","Kitatakumachi Sunahara",""]],
+	"8460006":[[41,"多久市","北多久町莇原","","Taku-shi","Kitatakumachi Azamibaru",""]],
+	"8460007":[[41,"多久市","北多久町メイプルタウン","","Taku-shi","Kitatakumachi Meipurutaun",""]],
+	"8460011":[[41,"多久市","東多久町","","Taku-shi","Higashitakumachi",""]],
+	"8460012":[[41,"多久市","東多久町別府","","Taku-shi","Higashitakumachi Befu",""]],
+	"8460013":[[41,"多久市","東多久町古賀","","Taku-shi","Higashitakumachi Koga",""]],
+	"8460014":[[41,"多久市","東多久町納所","","Taku-shi","Higashitakumachi Noso",""]],
+	"8460021":[[41,"多久市","南多久町","","Taku-shi","Minamitakumachi",""]],
+	"8460022":[[41,"多久市","南多久町泉町","","Taku-shi","Minamitakumachi Izumimachi",""]],
+	"8460023":[[41,"多久市","南多久町長尾","","Taku-shi","Minamitakumachi Nagao",""]],
+	"8460024":[[41,"多久市","南多久町下多久","","Taku-shi","Minamitakumachi Shimotaku",""]],
+	"8460025":[[41,"多久市","南多久町花祭","","Taku-shi","Minamitakumachi Hanamatsuri",""]],
+	"8460031":[[41,"多久市","多久町","","Taku-shi","Takumachi",""]],
+	"8460041":[[41,"多久市","西多久町","","Taku-shi","Nishitakumachi",""]]
+})

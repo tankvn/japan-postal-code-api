@@ -1,0 +1,22 @@
+zipdata({
+	"3170000":[[8,"日立市","","","Hitachi-shi","",""]],
+	"3170051":[[8,"日立市","滑川本町","","Hitachi-shi","Namekawahoncho",""]],
+	"3170052":[[8,"日立市","東滑川町","","Hitachi-shi","Higashinamekawacho",""]],
+	"3170053":[[8,"日立市","滑川町","","Hitachi-shi","Namekawacho",""]],
+	"3170054":[[8,"日立市","本宮町","","Hitachi-shi","Motomiyacho",""]],
+	"3170055":[[8,"日立市","宮田町","","Hitachi-shi","Miyatacho",""]],
+	"3170056":[[8,"日立市","白銀町","","Hitachi-shi","Shiroganecho",""]],
+	"3170061":[[8,"日立市","東町","","Hitachi-shi","Higashicho",""]],
+	"3170062":[[8,"日立市","平和町","","Hitachi-shi","Heiwacho",""]],
+	"3170063":[[8,"日立市","若葉町","","Hitachi-shi","Wakabacho",""]],
+	"3170064":[[8,"日立市","神峰町","","Hitachi-shi","Kaminecho",""]],
+	"3170065":[[8,"日立市","助川町","","Hitachi-shi","Sukegawacho",""]],
+	"3170066":[[8,"日立市","高鈴町","","Hitachi-shi","Takasuzucho",""]],
+	"3170071":[[8,"日立市","鹿島町","","Hitachi-shi","Kashimacho",""]],
+	"3170072":[[8,"日立市","弁天町","","Hitachi-shi","Bentencho",""]],
+	"3170073":[[8,"日立市","幸町","","Hitachi-shi","Saiwaicho",""]],
+	"3170074":[[8,"日立市","旭町","","Hitachi-shi","Asahicho",""]],
+	"3170075":[[8,"日立市","相賀町","","Hitachi-shi","Aigacho",""]],
+	"3170076":[[8,"日立市","会瀬町","","Hitachi-shi","Osecho",""]],
+	"3170077":[[8,"日立市","城南町","","Hitachi-shi","Jonancho",""]]
+})

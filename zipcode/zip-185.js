@@ -1,0 +1,22 @@
+zipdata({
+	"1850000":[[13,"国分寺市","","","Kokubunji-shi","",""]],
+	"1850001":[[13,"国分寺市","北町","","Kokubunji-shi","Kitamachi",""]],
+	"1850002":[[13,"国分寺市","東戸倉","","Kokubunji-shi","Higashitokura",""]],
+	"1850003":[[13,"国分寺市","戸倉","","Kokubunji-shi","Tokura",""]],
+	"1850004":[[13,"国分寺市","新町","","Kokubunji-shi","Shimmachi",""]],
+	"1850005":[[13,"国分寺市","並木町","","Kokubunji-shi","Namikicho",""]],
+	"1850011":[[13,"国分寺市","本多","","Kokubunji-shi","Honda",""]],
+	"1850012":[[13,"国分寺市","本町","","Kokubunji-shi","Honcho",""]],
+	"1850013":[[13,"国分寺市","西恋ケ窪","","Kokubunji-shi","Nishikoigakubo",""]],
+	"1850014":[[13,"国分寺市","東恋ケ窪","","Kokubunji-shi","Higashikoigakubo",""]],
+	"1850021":[[13,"国分寺市","南町","","Kokubunji-shi","Minamicho",""]],
+	"1850022":[[13,"国分寺市","東元町","","Kokubunji-shi","Higashimotomachi",""]],
+	"1850023":[[13,"国分寺市","西元町","","Kokubunji-shi","Nishimotomachi",""]],
+	"1850024":[[13,"国分寺市","泉町","","Kokubunji-shi","Izumicho",""]],
+	"1850031":[[13,"国分寺市","富士本","","Kokubunji-shi","Fujimoto",""]],
+	"1850032":[[13,"国分寺市","日吉町","","Kokubunji-shi","Hiyoshicho",""]],
+	"1850033":[[13,"国分寺市","内藤","","Kokubunji-shi","Naito",""]],
+	"1850034":[[13,"国分寺市","光町","","Kokubunji-shi","Hikaricho",""]],
+	"1850035":[[13,"国分寺市","西町","","Kokubunji-shi","Nishimachi",""]],
+	"1850036":[[13,"国分寺市","高木町","","Kokubunji-shi","Takagicho",""]]
+})

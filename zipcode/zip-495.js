@@ -1,0 +1,22 @@
+zipdata({
+	"4950001":[[23,"稲沢市","祖父江町祖父江","","Inazawa-shi","Sobuecho Sobue",""]],
+	"4950002":[[23,"稲沢市","祖父江町山崎","","Inazawa-shi","Sobuecho Yamazaki",""]],
+	"4950003":[[23,"稲沢市","祖父江町高熊西","","Inazawa-shi","Sobuecho Takakumanishi",""]],
+	"4950011":[[23,"稲沢市","祖父江町森上","","Inazawa-shi","Sobuecho Morikami",""]],
+	"4950012":[[23,"稲沢市","祖父江町本甲","","Inazawa-shi","Sobuecho Honko",""]],
+	"4950013":[[23,"稲沢市","祖父江町二俣","","Inazawa-shi","Sobuecho Futamata",""]],
+	"4950014":[[23,"稲沢市","祖父江町大牧","","Inazawa-shi","Sobuecho Omaki",""]],
+	"4950015":[[23,"稲沢市","祖父江町桜方","","Inazawa-shi","Sobuecho Sakuragata",""]],
+	"4950021":[[23,"稲沢市","祖父江町三丸渕","","Inazawa-shi","Sobuecho Sammarubuchi",""]],
+	"4950022":[[23,"稲沢市","祖父江町甲新田","","Inazawa-shi","Sobuecho Kabutoshinden",""]],
+	"4950023":[[23,"稲沢市","祖父江町島本","","Inazawa-shi","Sobuecho Shimamoto",""]],
+	"4950024":[[23,"稲沢市","祖父江町野田","","Inazawa-shi","Sobuecho Noda",""]],
+	"4950025":[[23,"稲沢市","祖父江町両寺内","","Inazawa-shi","Sobuecho Ryojinai",""]],
+	"4950031":[[23,"稲沢市","祖父江町上牧","","Inazawa-shi","Sobuecho Kammaki",""]],
+	"4950032":[[23,"稲沢市","祖父江町中牧","","Inazawa-shi","Sobuecho Nakamaki",""]],
+	"4950033":[[23,"稲沢市","祖父江町四貫","","Inazawa-shi","Sobuecho Yotsunoki",""]],
+	"4950034":[[23,"稲沢市","祖父江町西鵜之本","","Inazawa-shi","Sobuecho Nishiunomoto",""]],
+	"4950035":[[23,"稲沢市","祖父江町神明津","","Inazawa-shi","Sobuecho Shimmyozu",""]],
+	"4950036":[[23,"稲沢市","祖父江町馬飼","","Inazawa-shi","Sobuecho Makai",""]],
+	"4950037":[[23,"稲沢市","祖父江町拾町野","","Inazawa-shi","Sobuecho Jitchono",""]]
+})

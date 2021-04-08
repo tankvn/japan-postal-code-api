@@ -1,0 +1,16 @@
+zipdata({
+	"1770031":[[13,"練馬区","三原台","","Nerima-ku","Miharadai",""]],
+	"1770032":[[13,"練馬区","谷原","","Nerima-ku","Yahara",""]],
+	"1770033":[[13,"練馬区","高野台","","Nerima-ku","Takanodai",""]],
+	"1770034":[[13,"練馬区","富士見台","","Nerima-ku","Fujimidai",""]],
+	"1770035":[[13,"練馬区","南田中","","Nerima-ku","Minamitanaka",""]],
+	"1770041":[[13,"練馬区","石神井町","","Nerima-ku","Shakujiimachi",""]],
+	"1770042":[[13,"練馬区","下石神井","","Nerima-ku","Shimoshakujii",""]],
+	"1770043":[[13,"練馬区","上石神井南町","","Nerima-ku","Kamishakujiiminamicho",""]],
+	"1770044":[[13,"練馬区","上石神井","","Nerima-ku","Kamishakujii",""]],
+	"1770045":[[13,"練馬区","石神井台","","Nerima-ku","Shakujiidai",""]],
+	"1770051":[[13,"練馬区","関町北","","Nerima-ku","Sekimachikita",""]],
+	"1770052":[[13,"練馬区","関町東","","Nerima-ku","Sekimachihigashi",""]],
+	"1770053":[[13,"練馬区","関町南","","Nerima-ku","Sekimachiminami",""]],
+	"1770054":[[13,"練馬区","立野町","","Nerima-ku","Tatenocho",""]]
+})

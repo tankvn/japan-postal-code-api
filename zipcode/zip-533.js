@@ -1,0 +1,22 @@
+zipdata({
+	"5330000":[[27,"大阪市東淀川区","","","Higashiyodogawa-ku, Osaka-shi","",""]],
+	"5330001":[[27,"大阪市東淀川区","井高野","","Higashiyodogawa-ku, Osaka-shi","Itakano",""]],
+	"5330002":[[27,"大阪市東淀川区","北江口","","Higashiyodogawa-ku, Osaka-shi","Kitaeguchi",""]],
+	"5330003":[[27,"大阪市東淀川区","南江口","","Higashiyodogawa-ku, Osaka-shi","Minamieguchi",""]],
+	"5330004":[[27,"大阪市東淀川区","小松","","Higashiyodogawa-ku, Osaka-shi","Komatsu",""]],
+	"5330005":[[27,"大阪市東淀川区","瑞光","","Higashiyodogawa-ku, Osaka-shi","Zuiko",""]],
+	"5330006":[[27,"大阪市東淀川区","上新庄","","Higashiyodogawa-ku, Osaka-shi","Kamishinjo",""]],
+	"5330007":[[27,"大阪市東淀川区","相川","","Higashiyodogawa-ku, Osaka-shi","Aikawa",""]],
+	"5330011":[[27,"大阪市東淀川区","大桐","","Higashiyodogawa-ku, Osaka-shi","Daido",""]],
+	"5330012":[[27,"大阪市東淀川区","大道南","","Higashiyodogawa-ku, Osaka-shi","Daidominami",""]],
+	"5330013":[[27,"大阪市東淀川区","豊里","","Higashiyodogawa-ku, Osaka-shi","Toyosato",""]],
+	"5330014":[[27,"大阪市東淀川区","豊新","","Higashiyodogawa-ku, Osaka-shi","Hoshin",""]],
+	"5330015":[[27,"大阪市東淀川区","大隅","","Higashiyodogawa-ku, Osaka-shi","Osumi",""]],
+	"5330021":[[27,"大阪市東淀川区","下新庄","","Higashiyodogawa-ku, Osaka-shi","Shimoshinjo",""]],
+	"5330022":[[27,"大阪市東淀川区","菅原","","Higashiyodogawa-ku, Osaka-shi","Sugahara",""]],
+	"5330023":[[27,"大阪市東淀川区","東淡路","","Higashiyodogawa-ku, Osaka-shi","Higashiawaji",""]],
+	"5330024":[[27,"大阪市東淀川区","柴島","","Higashiyodogawa-ku, Osaka-shi","Kunijima",""]],
+	"5330031":[[27,"大阪市東淀川区","西淡路","","Higashiyodogawa-ku, Osaka-shi","Nishiawaji",""]],
+	"5330032":[[27,"大阪市東淀川区","淡路","","Higashiyodogawa-ku, Osaka-shi","Awaji",""]],
+	"5330033":[[27,"大阪市東淀川区","東中島","","Higashiyodogawa-ku, Osaka-shi","Higashinakajima",""]]
+})

@@ -1,0 +1,19 @@
+zipdata({
+	"4940001":[[23,"一宮市","開明","","Ichinomiya-shi","Kaimei",""]],
+	"4940002":[[23,"一宮市","篭屋","","Ichinomiya-shi","Kagoya",""]],
+	"4940003":[[23,"一宮市","三条","","Ichinomiya-shi","Sanjo",""]],
+	"4940004":[[23,"一宮市","北今","","Ichinomiya-shi","Kitaima",""]],
+	"4940005":[[23,"一宮市","西五城","","Ichinomiya-shi","Nishiitsushiro",""]],
+	"4940006":[[23,"一宮市","起","","Ichinomiya-shi","Okoshi",""]],
+	"4940007":[[23,"一宮市","小信中島","","Ichinomiya-shi","Konobunakashima",""]],
+	"4940008":[[23,"一宮市","東五城","","Ichinomiya-shi","Higashiitsushiro",""]],
+	"4940011":[[23,"一宮市","西萩原","","Ichinomiya-shi","Nishihagiwara",""]],
+	"4940012":[[23,"一宮市","明地","","Ichinomiya-shi","Meichi",""]],
+	"4940013":[[23,"一宮市","玉野","","Ichinomiya-shi","Tamano",""]],
+	"4940014":[[23,"一宮市","上祖父江","","Ichinomiya-shi","Kamisobue",""]],
+	"4940015":[[23,"一宮市","西中野","","Ichinomiya-shi","Nishinakano",""]],
+	"4940016":[[23,"一宮市","東加賀野井","","Ichinomiya-shi","Higashikaganoi",""]],
+	"4940017":[[23,"一宮市","祐久","","Ichinomiya-shi","Yuku",""]],
+	"4940018":[[23,"一宮市","冨田","","Ichinomiya-shi","Tomida",""]],
+	"4940019":[[23,"一宮市","蓮池","","Ichinomiya-shi","Hasuike",""]]
+})

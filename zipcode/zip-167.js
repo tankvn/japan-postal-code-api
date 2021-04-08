@@ -1,0 +1,17 @@
+zipdata({
+	"1670021":[[13,"杉並区","井草","","Suginami-ku","Igusa",""]],
+	"1670022":[[13,"杉並区","下井草","","Suginami-ku","Shimoigusa",""]],
+	"1670023":[[13,"杉並区","上井草","","Suginami-ku","Kamiigusa",""]],
+	"1670031":[[13,"杉並区","本天沼","","Suginami-ku","Honamanuma",""]],
+	"1670032":[[13,"杉並区","天沼","","Suginami-ku","Amanuma",""]],
+	"1670033":[[13,"杉並区","清水","","Suginami-ku","Shimizu",""]],
+	"1670034":[[13,"杉並区","桃井","","Suginami-ku","Momoi",""]],
+	"1670035":[[13,"杉並区","今川","","Suginami-ku","Imagawa",""]],
+	"1670041":[[13,"杉並区","善福寺","","Suginami-ku","Zempukuji",""]],
+	"1670042":[[13,"杉並区","西荻北","","Suginami-ku","Nishiogikita",""]],
+	"1670043":[[13,"杉並区","上荻","","Suginami-ku","Kamiogi",""]],
+	"1670051":[[13,"杉並区","荻窪","","Suginami-ku","Ogikubo",""]],
+	"1670052":[[13,"杉並区","南荻窪","","Suginami-ku","Minamiogikubo",""]],
+	"1670053":[[13,"杉並区","西荻南","","Suginami-ku","Nishiogiminami",""]],
+	"1670054":[[13,"杉並区","松庵","","Suginami-ku","Shoan",""]]
+})

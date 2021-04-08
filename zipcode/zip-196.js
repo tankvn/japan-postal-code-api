@@ -1,0 +1,22 @@
+zipdata({
+	"1960000":[[13,"昭島市","","","Akishima-shi","",""]],
+	"1960001":[[13,"昭島市","美堀町","","Akishima-shi","Mihoricho",""]],
+	"1960002":[[13,"昭島市","拝島町","","Akishima-shi","Haijimacho",""]],
+	"1960003":[[13,"昭島市","松原町","","Akishima-shi","Matsubaracho",""]],
+	"1960004":[[13,"昭島市","緑町","","Akishima-shi","Midoricho",""]],
+	"1960011":[[13,"昭島市","上川原町","","Akishima-shi","Jogawaracho",""]],
+	"1960012":[[13,"昭島市","つつじが丘","","Akishima-shi","Tsutsujigaoka",""]],
+	"1960013":[[13,"昭島市","大神町","","Akishima-shi","Ogamicho",""]],
+	"1960014":[[13,"昭島市","田中町","","Akishima-shi","Tanakacho",""]],
+	"1960015":[[13,"昭島市","昭和町","","Akishima-shi","Showacho",""]],
+	"1960021":[[13,"昭島市","武蔵野","","Akishima-shi","Musashino",""]],
+	"1960022":[[13,"昭島市","中神町","","Akishima-shi","Nakagamicho",""]],
+	"1960023":[[13,"昭島市","築地町","","Akishima-shi","Tsuijicho",""]],
+	"1960024":[[13,"昭島市","宮沢町","","Akishima-shi","Miyazawacho",""]],
+	"1960025":[[13,"昭島市","朝日町","","Akishima-shi","Asahicho",""]],
+	"1960031":[[13,"昭島市","福島町","","Akishima-shi","Fukujimacho",""]],
+	"1960032":[[13,"昭島市","郷地町","","Akishima-shi","Gochicho",""]],
+	"1960033":[[13,"昭島市","東町","","Akishima-shi","Azumacho",""]],
+	"1960034":[[13,"昭島市","玉川町","","Akishima-shi","Tamagawacho",""]],
+	"1960035":[[13,"昭島市","もくせいの杜","","Akishima-shi","Mokuseinomori",""]]
+})

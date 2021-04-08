@@ -1,0 +1,23 @@
+zipdata({
+	"0940000":[[1,"紋別市","","","Mombetsu-shi","",""]],
+	"0940001":[[1,"紋別市","北浜町","","Mombetsu-shi","Kitahamacho",""]],
+	"0940002":[[1,"紋別市","真砂町","","Mombetsu-shi","Masagocho",""]],
+	"0940003":[[1,"紋別市","弁天町","","Mombetsu-shi","Bentencho",""]],
+	"0940004":[[1,"紋別市","本町","","Mombetsu-shi","Honcho",""]],
+	"0940005":[[1,"紋別市","幸町","","Mombetsu-shi","Saiwaicho",""]],
+	"0940006":[[1,"紋別市","潮見町","","Mombetsu-shi","Shiomicho",""]],
+	"0940007":[[1,"紋別市","落石町","","Mombetsu-shi","Ochiishicho",""]],
+	"0940011":[[1,"紋別市","港町","","Mombetsu-shi","Minatocho",""]],
+	"0940012":[[1,"紋別市","新港町","","Mombetsu-shi","Shinkocho",""]],
+	"0940013":[[1,"紋別市","南が丘町","","Mombetsu-shi","Minamigaokacho",""]],
+	"0940014":[[1,"紋別市","緑町","","Mombetsu-shi","Midoricho",""]],
+	"0940015":[[1,"紋別市","花園町","","Mombetsu-shi","Hanazonocho",""]],
+	"0940021":[[1,"紋別市","大山町","","Mombetsu-shi","Oyamacho",""]],
+	"0940022":[[1,"紋別市","新生","","Mombetsu-shi","Shinsei",""]],
+	"0940023":[[1,"紋別市","元紋別","","Mombetsu-shi","Motomombetsu",""]],
+	"0940024":[[1,"紋別市","藻別","","Mombetsu-shi","Mobetsu",""]],
+	"0940025":[[1,"紋別市","上藻別","","Mombetsu-shi","Kamimobetsu",""]],
+	"0940026":[[1,"紋別市","鴻之舞","","Mombetsu-shi","Konomai",""]],
+	"0940027":[[1,"紋別市","上鴻之舞","","Mombetsu-shi","Kamikonomai",""]],
+	"0940031":[[1,"紋別市","海洋公園","","Mombetsu-shi","Kaiyokoen",""]]
+})

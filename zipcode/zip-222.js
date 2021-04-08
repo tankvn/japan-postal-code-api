@@ -1,0 +1,22 @@
+zipdata({
+	"2220000":[[14,"横浜市港北区","","","Kohoku-ku, Yokohama-shi","",""]],
+	"2220001":[[14,"横浜市港北区","樽町","","Kohoku-ku, Yokohama-shi","Tarumachi",""]],
+	"2220002":[[14,"横浜市港北区","師岡町","","Kohoku-ku, Yokohama-shi","Morokacho",""]],
+	"2220003":[[14,"横浜市港北区","大曽根","","Kohoku-ku, Yokohama-shi","Osone",""]],
+	"2220004":[[14,"横浜市港北区","大曽根台","","Kohoku-ku, Yokohama-shi","Osonedai",""]],
+	"2220011":[[14,"横浜市港北区","菊名","","Kohoku-ku, Yokohama-shi","Kikuna",""]],
+	"2220012":[[14,"横浜市港北区","富士塚","","Kohoku-ku, Yokohama-shi","Fujizuka",""]],
+	"2220013":[[14,"横浜市港北区","錦が丘","","Kohoku-ku, Yokohama-shi","Nishikigaoka",""]],
+	"2220021":[[14,"横浜市港北区","篠原北","","Kohoku-ku, Yokohama-shi","Shinoharakita",""]],
+	"2220022":[[14,"横浜市港北区","篠原東","","Kohoku-ku, Yokohama-shi","Shinoharahigashi",""]],
+	"2220023":[[14,"横浜市港北区","仲手原","","Kohoku-ku, Yokohama-shi","Nakatehara",""]],
+	"2220024":[[14,"横浜市港北区","篠原台町","","Kohoku-ku, Yokohama-shi","Shinoharadaimachi",""]],
+	"2220025":[[14,"横浜市港北区","篠原西町","","Kohoku-ku, Yokohama-shi","Shinoharanishicho",""]],
+	"2220026":[[14,"横浜市港北区","篠原町","","Kohoku-ku, Yokohama-shi","Shinoharacho",""]],
+	"2220032":[[14,"横浜市港北区","大豆戸町","","Kohoku-ku, Yokohama-shi","Mamedocho",""]],
+	"2220033":[[14,"横浜市港北区","新横浜","","Kohoku-ku, Yokohama-shi","Shinyokohama",""]],
+	"2220034":[[14,"横浜市港北区","岸根町","","Kohoku-ku, Yokohama-shi","Kishinecho",""]],
+	"2220035":[[14,"横浜市港北区","鳥山町","","Kohoku-ku, Yokohama-shi","Toriyamacho",""]],
+	"2220036":[[14,"横浜市港北区","小机町","","Kohoku-ku, Yokohama-shi","Kozukuecho",""]],
+	"2220037":[[14,"横浜市港北区","大倉山","","Kohoku-ku, Yokohama-shi","Okurayama",""]]
+})

@@ -1,0 +1,21 @@
+zipdata({
+	"8860000":[[45,"小林市","","","Kobayashi-shi","",""]],
+	"8860001":[[45,"小林市","東方","","Kobayashi-shi","Higashikata",""]],
+	"8860002":[[45,"小林市","水流迫","","Kobayashi-shi","Tsuruzako",""]],
+	"8860003":[[45,"小林市","堤","","Kobayashi-shi","Tsutsumi",""]],
+	"8860004":[[45,"小林市","細野","","Kobayashi-shi","Hosono",""]],
+	"8860005":[[45,"小林市","南西方","","Kobayashi-shi","Minaminishikata",""]],
+	"8860006":[[45,"小林市","北西方","","Kobayashi-shi","Kitanishikata",""]],
+	"8860007":[[45,"小林市","真方","","Kobayashi-shi","Magata",""]],
+	"8860008":[[45,"小林市","本町","","Kobayashi-shi","Hommachi",""]],
+	"8860009":[[45,"小林市","駅南","","Kobayashi-shi","Ekiminami",""]],
+	"8860101":[[45,"小林市","東方","","Kobayashi-shi","Higashikata",""]],
+	"8860111":[[45,"小林市","須木中原","","Kobayashi-shi","Suki Nakahara",""]],
+	"8860112":[[45,"小林市","須木下田","","Kobayashi-shi","Suki Shimoda",""]],
+	"8860113":[[45,"小林市","須木鳥田町","","Kobayashi-shi","Suki Toridamachi",""]],
+	"8860114":[[45,"小林市","須木奈佐木","","Kobayashi-shi","Suki Nasaki",""]],
+	"8860115":[[45,"小林市","須木内山","","Kobayashi-shi","Suki Uchiyama",""]],
+	"8860211":[[45,"小林市","野尻町紙屋","","Kobayashi-shi","Nojiricho Kamiya",""]],
+	"8860212":[[45,"小林市","野尻町東麓","","Kobayashi-shi","Nojiricho Higashifumoto",""]],
+	"8860213":[[45,"小林市","野尻町三ケ野山","","Kobayashi-shi","Nojiricho Mikanoyama",""]]
+})

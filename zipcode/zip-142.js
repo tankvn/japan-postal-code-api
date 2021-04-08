@@ -1,0 +1,13 @@
+zipdata({
+	"1420041":[[13,"品川区","戸越","","Shinagawa-ku","Togoshi",""]],
+	"1420042":[[13,"品川区","豊町","","Shinagawa-ku","Yutakacho",""]],
+	"1420043":[[13,"品川区","二葉","","Shinagawa-ku","Futaba",""]],
+	"1420051":[[13,"品川区","平塚","","Shinagawa-ku","Hiratsuka",""]],
+	"1420052":[[13,"品川区","東中延","","Shinagawa-ku","Higashinakanobu",""]],
+	"1420053":[[13,"品川区","中延","","Shinagawa-ku","Nakanobu",""]],
+	"1420054":[[13,"品川区","西中延","","Shinagawa-ku","Nishinakanobu",""]],
+	"1420061":[[13,"品川区","小山台","","Shinagawa-ku","Koyamadai",""]],
+	"1420062":[[13,"品川区","小山","","Shinagawa-ku","Koyama",""]],
+	"1420063":[[13,"品川区","荏原","","Shinagawa-ku","Ebara",""]],
+	"1420064":[[13,"品川区","旗の台","","Shinagawa-ku","Hatanodai",""]]
+})

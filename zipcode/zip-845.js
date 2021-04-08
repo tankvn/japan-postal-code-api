@@ -1,0 +1,22 @@
+zipdata({
+	"8450000":[[41,"小城市","","","Ogi-shi","",""]],
+	"8450001":[[41,"小城市","小城町","","Ogi-shi","Ogimachi",""]],
+	"8450002":[[41,"小城市","小城町畑田","","Ogi-shi","Ogimachi Hatakeda",""]],
+	"8450003":[[41,"小城市","小城町岩蔵","","Ogi-shi","Ogimachi Iwakura",""]],
+	"8450004":[[41,"小城市","小城町松尾","","Ogi-shi","Ogimachi Matsuo",""]],
+	"8450005":[[41,"小城市","小城町東新町","","Ogi-shi","Ogimachi Higashishimmachi",""]],
+	"8450011":[[41,"小城市","小城町船田","","Ogi-shi","Ogimachi Funada",""]],
+	"8450012":[[41,"小城市","小城町池上","","Ogi-shi","Ogimachi Ikenoe",""]],
+	"8450013":[[41,"小城市","小城町栗原","","Ogi-shi","Ogimachi Kurihara",""]],
+	"8450014":[[41,"小城市","小城町晴気","","Ogi-shi","Ogimachi Haruke",""]],
+	"8450021":[[41,"小城市","三日月町長神田","","Ogi-shi","Mikatsukicho Chokanda",""]],
+	"8450022":[[41,"小城市","三日月町久米","","Ogi-shi","Mikatsukicho Kume",""]],
+	"8450023":[[41,"小城市","三日月町織島","","Ogi-shi","Mikatsukicho Orishima",""]],
+	"8450024":[[41,"小城市","三日月町道辺","","Ogi-shi","Mikatsukicho Michibe",""]],
+	"8450025":[[41,"小城市","三日月町三ケ島","","Ogi-shi","Mikatsukicho Mikashima",""]],
+	"8450031":[[41,"小城市","三日月町堀江","","Ogi-shi","Mikatsukicho Horie",""]],
+	"8450032":[[41,"小城市","三日月町金田","","Ogi-shi","Mikatsukicho Kanada",""]],
+	"8450033":[[41,"小城市","三日月町樋口","","Ogi-shi","Mikatsukicho Higuchi",""]],
+	"8450034":[[41,"小城市","三日月町甲柳原","","Ogi-shi","Mikatsukicho Koyanagihara",""]],
+	"8450035":[[41,"小城市","三日月町石木","","Ogi-shi","Mikatsukicho Ishiki",""]]
+})

@@ -1,0 +1,10 @@
+zipdata({
+	"1880001":[[13,"西東京市","谷戸町","","Nishitokyo-shi","Yatocho",""]],
+	"1880002":[[13,"西東京市","緑町","","Nishitokyo-shi","Midoricho",""]],
+	"1880003":[[13,"西東京市","北原町","","Nishitokyo-shi","Kitaharacho",""]],
+	"1880004":[[13,"西東京市","西原町","","Nishitokyo-shi","Nishiharacho",""]],
+	"1880011":[[13,"西東京市","田無町","","Nishitokyo-shi","Tanashicho",""]],
+	"1880012":[[13,"西東京市","南町","","Nishitokyo-shi","Minamicho",""]],
+	"1880013":[[13,"西東京市","向台町","","Nishitokyo-shi","Mukodaicho",""]],
+	"1880014":[[13,"西東京市","芝久保町","","Nishitokyo-shi","Shibakubocho",""]]
+})

@@ -1,0 +1,23 @@
+zipdata({
+	"5360000":[[27,"大阪市城東区","","","Joto-ku, Osaka-shi","",""]],
+	"5360001":[[27,"大阪市城東区","古市","","Joto-ku, Osaka-shi","Furuichi",""]],
+	"5360002":[[27,"大阪市城東区","今福東","","Joto-ku, Osaka-shi","Imafukuhigashi",""]],
+	"5360003":[[27,"大阪市城東区","今福南","","Joto-ku, Osaka-shi","Imafukuminami",""]],
+	"5360004":[[27,"大阪市城東区","今福西","","Joto-ku, Osaka-shi","Imafukunishi",""]],
+	"5360005":[[27,"大阪市城東区","中央","","Joto-ku, Osaka-shi","Chuo",""]],
+	"5360006":[[27,"大阪市城東区","野江","","Joto-ku, Osaka-shi","Noe",""]],
+	"5360007":[[27,"大阪市城東区","成育","","Joto-ku, Osaka-shi","Seiiku",""]],
+	"5360008":[[27,"大阪市城東区","関目","","Joto-ku, Osaka-shi","Sekime",""]],
+	"5360011":[[27,"大阪市城東区","放出西","","Joto-ku, Osaka-shi","Hanatennishi",""]],
+	"5360012":[[27,"大阪市城東区","天王田","","Joto-ku, Osaka-shi","Tennoden",""]],
+	"5360013":[[27,"大阪市城東区","鴫野東","","Joto-ku, Osaka-shi","Shiginohigashi",""]],
+	"5360014":[[27,"大阪市城東区","鴫野西","","Joto-ku, Osaka-shi","Shiginonishi",""]],
+	"5360015":[[27,"大阪市城東区","新喜多","","Joto-ku, Osaka-shi","Shigita",""]],
+	"5360016":[[27,"大阪市城東区","蒲生","","Joto-ku, Osaka-shi","Gamo",""]],
+	"5360017":[[27,"大阪市城東区","新喜多東","","Joto-ku, Osaka-shi","Shigitahigashi",""]],
+	"5360021":[[27,"大阪市城東区","諏訪","","Joto-ku, Osaka-shi","Suwa",""]],
+	"5360022":[[27,"大阪市城東区","永田","","Joto-ku, Osaka-shi","Nagata",""]],
+	"5360023":[[27,"大阪市城東区","東中浜","","Joto-ku, Osaka-shi","Higashinakahama",""]],
+	"5360024":[[27,"大阪市城東区","中浜","","Joto-ku, Osaka-shi","Nakahama",""]],
+	"5360025":[[27,"大阪市城東区","森之宮","","Joto-ku, Osaka-shi","Morinomiya",""]]
+})

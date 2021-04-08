@@ -1,0 +1,18 @@
+zipdata({
+	"1950051":[[13,"町田市","真光寺町","","Machida-shi","Shinkojimachi",""]],
+	"1950052":[[13,"町田市","広袴町","","Machida-shi","Hirobakamamachi",""]],
+	"1950053":[[13,"町田市","能ヶ谷","","Machida-shi","Nogaya",""]],
+	"1950054":[[13,"町田市","三輪町","","Machida-shi","Miwamachi",""]],
+	"1950055":[[13,"町田市","三輪緑山","","Machida-shi","Miwamidoriyama",""]],
+	"1950056":[[13,"町田市","広袴","","Machida-shi","Hirohakama",""]],
+	"1950057":[[13,"町田市","真光寺","","Machida-shi","Shinkoji",""]],
+	"1950061":[[13,"町田市","鶴川","","Machida-shi","Tsurukawa",""]],
+	"1950062":[[13,"町田市","大蔵町","","Machida-shi","Okuramachi",""]],
+	"1950063":[[13,"町田市","野津田町","","Machida-shi","Nozutamachi",""]],
+	"1950064":[[13,"町田市","小野路町","","Machida-shi","Onojimachi",""]],
+	"1950071":[[13,"町田市","金井町","","Machida-shi","Kanaimachi",""]],
+	"1950072":[[13,"町田市","金井","","Machida-shi","Kanai",""]],
+	"1950073":[[13,"町田市","薬師台","","Machida-shi","Yakushidai",""]],
+	"1950074":[[13,"町田市","山崎町","","Machida-shi","Yamazakimachi",""]],
+	"1950075":[[13,"町田市","山崎","","Machida-shi","Yamazaki",""]]
+})

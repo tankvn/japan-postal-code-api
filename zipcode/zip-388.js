@@ -1,0 +1,20 @@
+zipdata({
+	"3888001":[[20,"長野市","東犀南","","Nagano-shi","Higashisainami",""]],
+	"3888002":[[20,"長野市","篠ノ井東福寺","","Nagano-shi","Shinonoi Tofukuji",""]],
+	"3888003":[[20,"長野市","篠ノ井小森","","Nagano-shi","Shinonoi Komori",""]],
+	"3888004":[[20,"長野市","篠ノ井会","","Nagano-shi","Shinonoi Ai",""]],
+	"3888005":[[20,"長野市","篠ノ井横田","","Nagano-shi","Shinonoi Yokota",""]],
+	"3888006":[[20,"長野市","篠ノ井御幣川","","Nagano-shi","Shinonoi Ombegawa",""]],
+	"3888007":[[20,"長野市","篠ノ井布施高田","","Nagano-shi","Shinonoi Fusetakada",""]],
+	"3888008":[[20,"長野市","合戦場","","Nagano-shi","Kassemba",""]],
+	"3888011":[[20,"長野市","篠ノ井布施五明","","Nagano-shi","Shinonoi Fusegomyo",""]],
+	"3888012":[[20,"長野市","篠ノ井二ツ柳","","Nagano-shi","Shinonoi Futatsuyanagi",""]],
+	"3888013":[[20,"長野市","みこと川","","Nagano-shi","Mikotogawa",""]],
+	"3888014":[[20,"長野市","篠ノ井塩崎","","Nagano-shi","Shinonoi Shiozaki",""]],
+	"3888015":[[20,"長野市","篠ノ井石川","","Nagano-shi","Shinonoi Ishikawa",""]],
+	"3888016":[[20,"長野市","篠ノ井有旅","","Nagano-shi","Shinonoi Utabi",""]],
+	"3888017":[[20,"長野市","篠ノ井山布施","","Nagano-shi","Shinonoi Yamabuse",""]],
+	"3888018":[[20,"長野市","篠ノ井西寺尾","","Nagano-shi","Shinonoi Nishiderao",""]],
+	"3888019":[[20,"長野市","篠ノ井杵淵","","Nagano-shi","Shinonoi Kinebuchi",""]],
+	"3888020":[[20,"長野市","神明","","Nagano-shi","Shimmei",""]]
+})

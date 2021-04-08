@@ -1,0 +1,13 @@
+zipdata({
+	"1660000":[[13,"杉並区","","","Suginami-ku","",""]],
+	"1660001":[[13,"杉並区","阿佐谷北","","Suginami-ku","Asagayakita",""]],
+	"1660002":[[13,"杉並区","高円寺北","","Suginami-ku","Koenjikita",""]],
+	"1660003":[[13,"杉並区","高円寺南","","Suginami-ku","Koenjiminami",""]],
+	"1660004":[[13,"杉並区","阿佐谷南","","Suginami-ku","Asagayaminami",""]],
+	"1660011":[[13,"杉並区","梅里","","Suginami-ku","Umezato",""]],
+	"1660012":[[13,"杉並区","和田","","Suginami-ku","Wada",""]],
+	"1660013":[[13,"杉並区","堀ノ内","","Suginami-ku","Horinochi",""]],
+	"1660014":[[13,"杉並区","松ノ木","","Suginami-ku","Matsunoki",""]],
+	"1660015":[[13,"杉並区","成田東","","Suginami-ku","Naritahigashi",""]],
+	"1660016":[[13,"杉並区","成田西","","Suginami-ku","Naritanishi",""]]
+})

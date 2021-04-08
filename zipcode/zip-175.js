@@ -1,0 +1,12 @@
+zipdata({
+	"1750045":[[13,"板橋区","西台","","Itabashi-ku","Nishidai",""]],
+	"1750081":[[13,"板橋区","新河岸","","Itabashi-ku","Shingashi",""]],
+	"1750082":[[13,"板橋区","高島平","","Itabashi-ku","Takashimadaira",""]],
+	"1750083":[[13,"板橋区","徳丸","","Itabashi-ku","Tokumaru",""]],
+	"1750084":[[13,"板橋区","四葉","","Itabashi-ku","Yotsuba",""]],
+	"1750085":[[13,"板橋区","大門","","Itabashi-ku","Daimon",""]],
+	"1750091":[[13,"板橋区","三園","","Itabashi-ku","Misono",""]],
+	"1750092":[[13,"板橋区","赤塚","","Itabashi-ku","Akatsuka",""]],
+	"1750093":[[13,"板橋区","赤塚新町","","Itabashi-ku","Akatsukashimmachi",""]],
+	"1750094":[[13,"板橋区","成増","","Itabashi-ku","Narimasu",""]]
+})

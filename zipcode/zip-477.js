@@ -1,0 +1,9 @@
+zipdata({
+	"4770031":[[23,"東海市","大田町","","Tokai-shi","Otamachi",""]],
+	"4770032":[[23,"東海市","加木屋町","","Tokai-shi","Kagiyamachi",""]],
+	"4770033":[[23,"東海市","中ノ池","","Tokai-shi","Nakanoike",""]],
+	"4770034":[[23,"東海市","養父町","","Tokai-shi","Yabumachi",""]],
+	"4770035":[[23,"東海市","元浜町","","Tokai-shi","Motohamamachi",""]],
+	"4770036":[[23,"東海市","横須賀町","","Tokai-shi","Yokosukamachi",""]],
+	"4770037":[[23,"東海市","高横須賀町","","Tokai-shi","Takayokosukamachi",""]]
+})

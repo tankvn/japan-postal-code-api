@@ -1,0 +1,23 @@
+zipdata({
+	"5440000":[[27,"大阪市生野区","","","Ikuno-ku, Osaka-shi","",""]],
+	"5440001":[[27,"大阪市生野区","新今里","","Ikuno-ku, Osaka-shi","Shinimazato",""]],
+	"5440002":[[27,"大阪市生野区","小路","","Ikuno-ku, Osaka-shi","Shoji",""]],
+	"5440003":[[27,"大阪市生野区","小路東","","Ikuno-ku, Osaka-shi","Shojihigashi",""]],
+	"5440004":[[27,"大阪市生野区","巽北","","Ikuno-ku, Osaka-shi","Tatsumikita",""]],
+	"5440005":[[27,"大阪市生野区","中川","","Ikuno-ku, Osaka-shi","Nakagawa",""]],
+	"5440006":[[27,"大阪市生野区","中川東","","Ikuno-ku, Osaka-shi","Nakagawahigashi",""]],
+	"5440011":[[27,"大阪市生野区","田島","","Ikuno-ku, Osaka-shi","Tajima",""]],
+	"5440012":[[27,"大阪市生野区","巽西","","Ikuno-ku, Osaka-shi","Tatsuminishi",""]],
+	"5440013":[[27,"大阪市生野区","巽中","","Ikuno-ku, Osaka-shi","Tatsuminaka",""]],
+	"5440014":[[27,"大阪市生野区","巽東","","Ikuno-ku, Osaka-shi","Tatsumihigashi",""]],
+	"5440015":[[27,"大阪市生野区","巽南","","Ikuno-ku, Osaka-shi","Tatsumiminami",""]],
+	"5440021":[[27,"大阪市生野区","勝山南","","Ikuno-ku, Osaka-shi","Katsuyamaminami",""]],
+	"5440022":[[27,"大阪市生野区","舎利寺","","Ikuno-ku, Osaka-shi","Shariji",""]],
+	"5440023":[[27,"大阪市生野区","林寺","","Ikuno-ku, Osaka-shi","Hayashiji",""]],
+	"5440024":[[27,"大阪市生野区","生野西","","Ikuno-ku, Osaka-shi","Ikunonishi",""]],
+	"5440025":[[27,"大阪市生野区","生野東","","Ikuno-ku, Osaka-shi","Ikunohigashi",""]],
+	"5440031":[[27,"大阪市生野区","鶴橋","","Ikuno-ku, Osaka-shi","Tsuruhashi",""]],
+	"5440032":[[27,"大阪市生野区","中川西","","Ikuno-ku, Osaka-shi","Nakagawanishi",""]],
+	"5440033":[[27,"大阪市生野区","勝山北","","Ikuno-ku, Osaka-shi","Katsuyamakita",""]],
+	"5440034":[[27,"大阪市生野区","桃谷","","Ikuno-ku, Osaka-shi","Momodani",""]]
+})

@@ -1,0 +1,21 @@
+zipdata({
+	"5540000":[[27,"大阪市此花区","","","Konohana-ku, Osaka-shi","",""]],
+	"5540001":[[27,"大阪市此花区","高見","","Konohana-ku, Osaka-shi","Takami",""]],
+	"5540002":[[27,"大阪市此花区","伝法","","Konohana-ku, Osaka-shi","Dempo",""]],
+	"5540011":[[27,"大阪市此花区","朝日","","Konohana-ku, Osaka-shi","Asahi",""]],
+	"5540012":[[27,"大阪市此花区","西九条","","Konohana-ku, Osaka-shi","Nishikujo",""]],
+	"5540013":[[27,"大阪市此花区","梅香","","Konohana-ku, Osaka-shi","Baika",""]],
+	"5540014":[[27,"大阪市此花区","四貫島","","Konohana-ku, Osaka-shi","Shikanjima",""]],
+	"5540021":[[27,"大阪市此花区","春日出北","","Konohana-ku, Osaka-shi","Kasugadekita",""]],
+	"5540022":[[27,"大阪市此花区","春日出中","","Konohana-ku, Osaka-shi","Kasugadenaka",""]],
+	"5540023":[[27,"大阪市此花区","春日出南","","Konohana-ku, Osaka-shi","Kasugademinami",""]],
+	"5540024":[[27,"大阪市此花区","島屋","","Konohana-ku, Osaka-shi","Shimaya",""]],
+	"5540031":[[27,"大阪市此花区","桜島","","Konohana-ku, Osaka-shi","Sakurajima",""]],
+	"5540032":[[27,"大阪市此花区","梅町","","Konohana-ku, Osaka-shi","Umemachi",""]],
+	"5540033":[[27,"大阪市此花区","北港","","Konohana-ku, Osaka-shi","Hokuko",""]],
+	"5540041":[[27,"大阪市此花区","北港白津","","Konohana-ku, Osaka-shi","Hokuko Shiratsu",""]],
+	"5540042":[[27,"大阪市此花区","北港緑地","","Konohana-ku, Osaka-shi","Hokuko Ryokuchi",""]],
+	"5540043":[[27,"大阪市此花区","夢洲東","","Konohana-ku, Osaka-shi","Yumeshimahigashi",""]],
+	"5540051":[[27,"大阪市此花区","酉島","","Konohana-ku, Osaka-shi","Torishima",""]],
+	"5540052":[[27,"大阪市此花区","常吉","","Konohana-ku, Osaka-shi","Tsuneyoshi",""]]
+})

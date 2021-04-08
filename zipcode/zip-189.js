@@ -1,0 +1,16 @@
+zipdata({
+	"1890000":[[13,"東村山市","","","Higashimurayama-shi","",""]],
+	"1890001":[[13,"東村山市","秋津町","","Higashimurayama-shi","Akitsucho",""]],
+	"1890002":[[13,"東村山市","青葉町","","Higashimurayama-shi","Aobacho",""]],
+	"1890003":[[13,"東村山市","久米川町","","Higashimurayama-shi","Kumegawacho",""]],
+	"1890011":[[13,"東村山市","恩多町","","Higashimurayama-shi","Ontacho",""]],
+	"1890012":[[13,"東村山市","萩山町","","Higashimurayama-shi","Hagiyamacho",""]],
+	"1890013":[[13,"東村山市","栄町","","Higashimurayama-shi","Sakaecho",""]],
+	"1890014":[[13,"東村山市","本町","","Higashimurayama-shi","Honcho",""]],
+	"1890021":[[13,"東村山市","諏訪町","","Higashimurayama-shi","Suwacho",""]],
+	"1890022":[[13,"東村山市","野口町","","Higashimurayama-shi","Noguchicho",""]],
+	"1890023":[[13,"東村山市","美住町","","Higashimurayama-shi","Misumicho",""]],
+	"1890024":[[13,"東村山市","富士見町","","Higashimurayama-shi","Fujimicho",""]],
+	"1890025":[[13,"東村山市","廻田町","","Higashimurayama-shi","Meguritacho",""]],
+	"1890026":[[13,"東村山市","多摩湖町","","Higashimurayama-shi","Tamakocho",""]]
+})

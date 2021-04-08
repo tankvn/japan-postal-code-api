@@ -1,0 +1,20 @@
+zipdata({
+	"2070000":[[13,"東大和市","","","Higashiyamato-shi","",""]],
+	"2070001":[[13,"東大和市","多摩湖","","Higashiyamato-shi","Tamako",""]],
+	"2070002":[[13,"東大和市","湖畔","","Higashiyamato-shi","Kohan",""]],
+	"2070003":[[13,"東大和市","狭山","","Higashiyamato-shi","Sayama",""]],
+	"2070004":[[13,"東大和市","清水","","Higashiyamato-shi","Shimizu",""]],
+	"2070005":[[13,"東大和市","高木","","Higashiyamato-shi","Takagi",""]],
+	"2070011":[[13,"東大和市","清原","","Higashiyamato-shi","Kiyohara",""]],
+	"2070012":[[13,"東大和市","新堀","","Higashiyamato-shi","Shimbori",""]],
+	"2070013":[[13,"東大和市","向原","","Higashiyamato-shi","Mukohara",""]],
+	"2070014":[[13,"東大和市","南街","","Higashiyamato-shi","Nangai",""]],
+	"2070015":[[13,"東大和市","中央","","Higashiyamato-shi","Chuo",""]],
+	"2070016":[[13,"東大和市","仲原","","Higashiyamato-shi","Nakahara",""]],
+	"2070021":[[13,"東大和市","立野","","Higashiyamato-shi","Tateno",""]],
+	"2070022":[[13,"東大和市","桜が丘","","Higashiyamato-shi","Sakuragaoka",""]],
+	"2070023":[[13,"東大和市","上北台","","Higashiyamato-shi","Kamikitadai",""]],
+	"2070031":[[13,"東大和市","奈良橋","","Higashiyamato-shi","Narahashi",""]],
+	"2070032":[[13,"東大和市","蔵敷","","Higashiyamato-shi","Zoshiki",""]],
+	"2070033":[[13,"東大和市","芋窪","","Higashiyamato-shi","Imokubo",""]]
+})

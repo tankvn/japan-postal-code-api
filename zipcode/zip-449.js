@@ -1,0 +1,21 @@
+zipdata({
+	"4490200":[[23,"北設楽郡東栄町","","","Toei-cho, Kitashitara-gun","",""]],
+	"4490201":[[23,"北設楽郡東栄町","御園","","Toei-cho, Kitashitara-gun","Misono",""]],
+	"4490202":[[23,"北設楽郡東栄町","足込","","Toei-cho, Kitashitara-gun","Ashikome",""]],
+	"4490203":[[23,"北設楽郡東栄町","東薗目","","Toei-cho, Kitashitara-gun","Higashisonome",""]],
+	"4490204":[[23,"北設楽郡東栄町","西薗目","","Toei-cho, Kitashitara-gun","Nishisonome",""]],
+	"4490205":[[23,"北設楽郡東栄町","川角","","Toei-cho, Kitashitara-gun","Kawakado",""]],
+	"4490206":[[23,"北設楽郡東栄町","下田","","Toei-cho, Kitashitara-gun","Shimoda",""]],
+	"4490211":[[23,"北設楽郡東栄町","中設楽","","Toei-cho, Kitashitara-gun","Nakashitara",""]],
+	"4490212":[[23,"北設楽郡東栄町","月","","Toei-cho, Kitashitara-gun","Tsuki",""]],
+	"4490213":[[23,"北設楽郡東栄町","振草","","Toei-cho, Kitashitara-gun","Furikusa",""]],
+	"4490214":[[23,"北設楽郡東栄町","本郷","","Toei-cho, Kitashitara-gun","Hongo",""]],
+	"4490215":[[23,"北設楽郡東栄町","奈根","","Toei-cho, Kitashitara-gun","Nane",""]],
+	"4490216":[[23,"北設楽郡東栄町","三輪","","Toei-cho, Kitashitara-gun","Miwa",""]],
+	"4490400":[[23,"北設楽郡豊根村","","","Toyone-mura, Kitashitara-gun","",""]],
+	"4490401":[[23,"北設楽郡豊根村","三沢","","Toyone-mura, Kitashitara-gun","Misawa",""]],
+	"4490402":[[23,"北設楽郡豊根村","古真立","","Toyone-mura, Kitashitara-gun","Komadate",""]],
+	"4490403":[[23,"北設楽郡豊根村","下黒川","","Toyone-mura, Kitashitara-gun","Shimokurogawa",""]],
+	"4490404":[[23,"北設楽郡豊根村","上黒川","","Toyone-mura, Kitashitara-gun","Kamikurogawa",""]],
+	"4490405":[[23,"北設楽郡豊根村","坂宇場","","Toyone-mura, Kitashitara-gun","Sakauba",""]]
+})

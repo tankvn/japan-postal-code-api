@@ -1,0 +1,14 @@
+zipdata({
+	"4760000":[[23,"東海市","","","Tokai-shi","",""]],
+	"4760001":[[23,"東海市","南柴田町","","Tokai-shi","Minamishibatamachi",""]],
+	"4760002":[[23,"東海市","名和町","","Tokai-shi","Nawamachi",""]],
+	"4760003":[[23,"東海市","荒尾町","","Tokai-shi","Araomachi",""]],
+	"4760004":[[23,"東海市","荒尾町水深","","Tokai-shi","Araomachimizubuka",""]],
+	"4760005":[[23,"東海市","新宝町","","Tokai-shi","Shimpomachi",""]],
+	"4760006":[[23,"東海市","浅山","","Tokai-shi","Asayama",""]],
+	"4760011":[[23,"東海市","富木島町","","Tokai-shi","Fukishimamachi",""]],
+	"4760012":[[23,"東海市","富木島町伏見","","Tokai-shi","Fukishimamachifushimi",""]],
+	"4760013":[[23,"東海市","中央町","","Tokai-shi","Chuomachi",""]],
+	"4760014":[[23,"東海市","富貴ノ台","","Tokai-shi","Fukinodai",""]],
+	"4760015":[[23,"東海市","東海町","","Tokai-shi","Tokaimachi",""]]
+})

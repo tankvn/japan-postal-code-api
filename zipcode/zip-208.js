@@ -1,0 +1,18 @@
+zipdata({
+	"2080000":[[13,"武蔵村山市","","","Musashimurayama-shi","",""]],
+	"2080001":[[13,"武蔵村山市","中藤","","Musashimurayama-shi","Nakato",""]],
+	"2080002":[[13,"武蔵村山市","神明","","Musashimurayama-shi","Shimmei",""]],
+	"2080003":[[13,"武蔵村山市","中央","","Musashimurayama-shi","Chuo",""]],
+	"2080004":[[13,"武蔵村山市","本町","","Musashimurayama-shi","Hommachi",""]],
+	"2080011":[[13,"武蔵村山市","学園","","Musashimurayama-shi","Gakuen",""]],
+	"2080012":[[13,"武蔵村山市","緑が丘","","Musashimurayama-shi","Midorigaoka",""]],
+	"2080013":[[13,"武蔵村山市","大南","","Musashimurayama-shi","Ominami",""]],
+	"2080021":[[13,"武蔵村山市","三ツ藤","","Musashimurayama-shi","Mitsufuji",""]],
+	"2080022":[[13,"武蔵村山市","榎","","Musashimurayama-shi","Enoki",""]],
+	"2080023":[[13,"武蔵村山市","伊奈平","","Musashimurayama-shi","Inadaira",""]],
+	"2080031":[[13,"武蔵村山市","岸","","Musashimurayama-shi","Kishi",""]],
+	"2080032":[[13,"武蔵村山市","三ツ木","","Musashimurayama-shi","Mitsugi",""]],
+	"2080033":[[13,"武蔵村山市","三ツ木","","Musashimurayama-shi","Mitsugi",""]],
+	"2080034":[[13,"武蔵村山市","残堀","","Musashimurayama-shi","Zambori",""]],
+	"2080035":[[13,"武蔵村山市","中原","","Musashimurayama-shi","Nakahara",""]]
+})
