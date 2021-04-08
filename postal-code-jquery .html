@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>My First Example</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<!-- https://code.jquery.com/jquery-3.6.0.min.js -->
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+	// 郵便番号の場合 - Postal code
+	function validatePostalCode(value) {
+		// 郵便番号（ハイフンあり・なし両方） - Zip code (both with and without hyphens)
+		return /^[0-9]{3}\-?[0-9]{4}$/.test(value);
+	}
+
+	//var str = '1710031';
+	//var str = '171-0031';
+	var str = '1400012';
+	console.log(str, validatePostalCode(str));
+
+	var endpoint = './api/v1';
+	var code1 = str.replace(/^([0-9]{3}).*/, "$1");
+	var code2 = str.replace(/.*([0-9]{4})$/, "$1");
+	var url = endpoint + '/' + code1 +'/' + code2 + '.json';
+	console.log(code1, code2, url);
+
+	$.getJSON(url, function(data) {
+		// JSON result in `data` variable
+		console.log(data);
+		for (let address of data.data) {
+			console.log(address);
+			console.log(address.ja.prefecture, address.ja.address1, address.ja.address2, address.ja.address3, address.ja.address4);
+			console.log(address.en.prefecture, address.en.address1, address.en.address2, address.en.address3, address.en.address4);
+		}
+	});
+
+</script>
+</body>
+</html>
