@@ -1,9 +1,13 @@
 # japan-postal-code-api
 
+and  `zipdata`:  
 ### &nbsp; forked from [ZCloud-Firstserver/japan-postal-code](https://github.com/ZCloud-Firstserver/japan-postal-code)
 #### &nbsp;&emsp; forked from [meltedice/japan-postal-code](https://github.com/meltedice/japan-postal-code)
 ##### &nbsp;&emsp;&emsp; forked from [mzp/japan-postal-code](https://github.com/mzp/japan-postal-code)
 ###### &nbsp;&emsp;&emsp;&emsp; forked from [ajaxzip3/ajaxzip3.github.io](https://github.com/ajaxzip3/ajaxzip3.github.io)
+
+[https://github.com/haThaiHoang/japan-postal-code](https://github.com/haThaiHoang/japan-postal-code)  
+[https://github.com/linhnguyen-pnl/japan-post-code-custom](https://github.com/linhnguyen-pnl/japan-post-code-custom)  
 
 -----
 and `api/v1` forked from:  
@@ -15,13 +19,6 @@ and `data` forked from:
 [https://github.com/yubinbango/yubinbango](https://github.com/yubinbango/yubinbango)  
 [https://github.com/yubinbango/yubinbango-data](https://github.com/yubinbango/yubinbango-data)  
 [https://github.com/yubinbango/yubinbango.github.io](https://github.com/yubinbango/yubinbango.github.io)  
-
------
-and  `zipdata` forked from:  
-[https://github.com/haThaiHoang/japan-postal-code](https://github.com/haThaiHoang/japan-postal-code)  
-[https://github.com/linhnguyen-pnl/japan-post-code-custom](https://github.com/linhnguyen-pnl/japan-post-code-custom)  
-
-[]()  
 
 
 ## Data source and explanation
