@@ -7,5 +7,36 @@
 <body>
 	<h1>My First Heading</h1>
 	<p>My first paragraph.</p>
+<script>
+	// 郵便番号の場合 - Postal code
+	function validatePostalCode(value) {
+		// 郵便番号（ハイフンあり・なし両方） - Zip code (both with and without hyphens)
+		return /^[0-9]{3}\-?[0-9]{4}$/.test(value);
+	}
+
+	var str = '1710031';
+	//var str = '171-0031';
+	console.log(str, validatePostalCode(str));
+
+	var endpoint = './api/v1';
+	var code1 = str.replace(/^([0-9]{3}).*/, "$1");
+	var code2 = str.replace(/.*([0-9]{4})$/, "$1");
+	var url = endpoint + '/' + code1 +'/' + code2 + '.json';
+	console.log(code1, code2, url);
+
+	var xmlhttp = new XMLHttpRequest();
+	xmlhttp.open('GET', url, true);
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4) {
+			if(xmlhttp.status == 200) {
+				var obj = JSON.parse(xmlhttp.responseText);
+				console.log(xmlhttp.responseText, obj);
+				//var countryList = obj.countrylist;
+			}
+		}
+	};
+	xmlhttp.send(null);
+
+</script>
 </body>
 </html>
