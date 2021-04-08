@@ -8,6 +8,8 @@
 
 
 ## How to update postalcode data
+
+[https://www.post.japanpost.jp/zipcode/dl/roman-zip.html](https://www.post.japanpost.jp/zipcode/dl/roman-zip.html)
 ```
 wget https://www.post.japanpost.jp/zipcode/dl/roman/ken_all_rome.zip
 unzip ken_all_rome.zip
