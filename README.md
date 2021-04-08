@@ -16,6 +16,10 @@ and `api/v1` forked from:
 [https://github.com/madefor/postal-code-api](https://github.com/madefor/postal-code-api)  
 [https://github.com/madefor/postal-code-api/tree/gh-pages](https://github.com/madefor/postal-code-api/tree/gh-pages)  
 
+[https://github.com/danglephuc/jp-postalcode-lookup](https://github.com/danglephuc/jp-postalcode-lookup)  
+
+Update build database with postalcode data from http://jusyo.jp
+
 -----
 and `data` forked from:  
 [https://github.com/yubinbango/yubinbango](https://github.com/yubinbango/yubinbango)  
