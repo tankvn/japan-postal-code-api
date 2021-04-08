@@ -19,6 +19,7 @@ and
 and
 
 [https://github.com/haThaiHoang/japan-postal-code](https://github.com/haThaiHoang/japan-postal-code)  
+[https://github.com/linhnguyen-pnl/japan-post-code-custom](https://github.com/linhnguyen-pnl/japan-post-code-custom)  
 
 []()  
 
