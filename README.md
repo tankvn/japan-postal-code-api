@@ -5,7 +5,12 @@
 ##### &nbsp;&emsp;&emsp; forked from [mzp/japan-postal-code](https://github.com/mzp/japan-postal-code)
 ###### &nbsp;&emsp;&emsp;&emsp; forked from [ajaxzip3/ajaxzip3.github.io](https://github.com/ajaxzip3/ajaxzip3.github.io)
 
+and
 
+[https://github.com/madefor/postal-code-api](https://github.com/madefor/postal-code-api)
+[https://github.com/madefor/postal-code-api/tree/gh-pages](https://github.com/madefor/postal-code-api/tree/gh-pages)
+[]()
+[]()
 
 ## How to update postalcode data
 
